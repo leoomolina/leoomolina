@@ -50,7 +50,7 @@ Tenho 24 anos, moro em Marília/SP e sou apaixonado por aprender novas tecnologi
 
 📚 Tenho estudado e trabalhado mais com .NET e iniciei meus estudos para desenvolver apps para Android;
 
-☕🎮 vivo a base de um bom e forte cafézinho e adoro praticar esportes (bike, corrida, futebol...) mas horas vagas.
+☕🏆 vivo a base de um bom e forte cafézinho e adoro praticar esportes (bike, corrida, futebol...) mas horas vagas.
 
 
 📫 Você pode falar comigo pelas minhas redes sociais e pode conhecer alguns dos meus projetos já desenvolvidos aqui nos repositórios. =)
