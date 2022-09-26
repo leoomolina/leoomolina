@@ -19,7 +19,7 @@
 
 ## Bem vindo ao meu repositório!!
 
-Tenho 24 anos, moro em Marília/SP e sou apaixonado por aprender novas tecnologias, programação e músicas e esportes! Atualmente trabalho como desenvolvedor na Faith System.
+Tenho 24 anos, moro em Marília/SP e sou apaixonado por aprender novas tecnologias, programação e músicas e esportes!
 
 <p align="center">
   <img src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif" width="350">
@@ -43,6 +43,17 @@ Tenho 24 anos, moro em Marília/SP e sou apaixonado por aprender novas tecnologi
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg" alt="TortoiseSVN"/></code>
 <code><img height="32" src="https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png" alt="Visual Studio"/></code>
 <code><img height="32" src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" alt="Visual Studio Code"/></code>
+
+👨🏻‍🎓 Sou formado em Sistemas de Informações pela Univem;
+
+👨🏻‍💻 Atualmente trabalho como desenvolvedor na Faith System;
+
+📚 Tenho estudado e trabalhado mais com .NET e iniciei meus estudos para desenvolver apps para Android;
+
+☕🎮 vivo a base de um bom e forte cafézinho e adoro praticar esportes (bike, corrida, futebol...) mas horas vagas.
+
+
+📫 Você pode falar comigo pelas minhas redes sociais e pode conhecer alguns dos meus projetos já desenvolvidos aqui nos repositórios. =)
 
 ---
 
