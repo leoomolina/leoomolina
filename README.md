@@ -19,7 +19,7 @@
 
 ## Bem vindo ao meu repositório!!
 
-Tenho 24 anos, moro em Marília/SP e sou apaixonado por aprender novas tecnologias, programação e músicas e esportes!
+Tenho 25 anos, moro em Marília/SP e sou apaixonado por aprender novas tecnologias, programação e músicas e esportes!
 
 <p align="center">
   <img src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif" width="350">
